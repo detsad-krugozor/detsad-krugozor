@@ -1,0 +1,35 @@
+# Кругозор — detsad-krugozor.ru
+
+> Информационный журнал для родителей о развитии, воспитании и занятиях с детьми 1,5–7 лет.
+> Материалы готовит Наталья Егорова, педагог дошкольного образования и детский психолог.
+> Это информационный ресурс, а не действующее образовательное учреждение.
+
+## Разделы
+
+### Развивающие занятия
+- [Хореография и танцы для дошкольников](https://detsad-krugozor.ru/Khoreografiya.html)
+- [Рисование и художественное творчество для детей](https://detsad-krugozor.ru/hudozhestvennoe-tvorchestvo.html)
+- [Театрализованная деятельность и детский театр](https://detsad-krugozor.ru/nash-teatr.html)
+- [Детское творчество и поделки](https://detsad-krugozor.ru/raboty-detey.html)
+- [Развивающие занятия для дошкольника](https://detsad-krugozor.ru/uslugi.html)
+- [Музыкальные занятия и ритмика для дошкольников](https://detsad-krugozor.ru/muzykalnye-zanyatiya.html)
+- [Логика и математика для дошкольников без принуждения](https://detsad-krugozor.ru/logika-i-matematika.html)
+
+### Подготовка и развитие
+- [Подготовка к школе](https://detsad-krugozor.ru/podgotovka-k-shkole.html)
+- [Развитие речи у дошкольников](https://detsad-krugozor.ru/razvitie-rechi.html)
+- [Развитие мелкой моторики](https://detsad-krugozor.ru/melkaya-motorika.html)
+- [Развивающие игры по возрасту](https://detsad-krugozor.ru/igry-po-vozrastu.html)
+- [Чтение детям](https://detsad-krugozor.ru/chtenie-detyam.html)
+- [Развивающие материалы дома](https://detsad-krugozor.ru/razvivayushchie-materialy-doma.html)
+
+### Воспитание
+- [Адаптация к детскому саду](https://detsad-krugozor.ru/adaptaciya-k-detskomu-sadu.html)
+- [Режим дня дошкольника](https://detsad-krugozor.ru/rezhim-dnya.html)
+- [Кризис трёх лет](https://detsad-krugozor.ru/krizis-3-let.html)
+- [Эмоциональный интеллект ребёнка](https://detsad-krugozor.ru/emocionalnyy-intellekt.html)
+- [Детские истерики](https://detsad-krugozor.ru/detskie-isteriki.html)
+
+## Об авторе
+
+- [Об авторе](https://detsad-krugozor.ru/ob-avtore.html)
