@@ -1,6 +1,38 @@
-User-agent: *
+User-agent: Googlebot
 Allow: /
-Disallow:
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: YandexMetrika
+Allow: /
+
+User-agent: YandexDirect
+Allow: /
+
+User-agent: YandexWebmaster
+Allow: /
+
+User-agent: *
+Disallow: /
 
 Sitemap: https://detsad-krugozor.ru/sitemap.xml
 Host: detsad-krugozor.ru
